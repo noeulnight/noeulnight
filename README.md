@@ -34,14 +34,14 @@ ___
 | 프로젝트 명 | 완성 여부 | 오픈 여부 |
 |---|:---:|---:|
 | `Shelter-Auto-Checker` | `True` | `True` |
-| `Typecast.api` | `True` | `false` |
+| `Typecast.api` | `True` | `False` |
 | `Disaster-Message` | `True` | `True` |
 | `Get-Server-Time` | `True` | `True` |
 | `SWAG/Covid-Check` | `True` | `True` |
+| `Sechihyeo Donate` | `True` | `False` |
 | `Shelter-Board-Viewer` | `Pending` | `True` |
 | `kkutu-korea-dict` | `Pending` | `True` |
 | `EqualPlus` | `Pending` | `True` |
-| `SWAG/Covid-Check` | `True` | `True` |
 <br>
 
 ___
