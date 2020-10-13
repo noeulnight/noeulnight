@@ -7,7 +7,7 @@
 
 안녕하세요 전 평범한(?) Developer 노을입니다
 
-- 학교 : 장곡중학교(칠곡)
+- 학교 : 장곡중학교
 - 나이 : 16
 - 성별 : 남
 - 인성 : 4번은 개인주의야
@@ -23,6 +23,7 @@ ___
 | `SoftWareAndGuider` | 어드민 / 노말코더 | `2018년` |
 | `Trinets` | 어드민 / 훈수충 | `2019년` |
 | `Noeul Network` | 오너 / 뇌가 없는 | `2020년` |
+| `Sechihyeo` | 개발자 / 권력 남용 | `2020년` |
 <br>
 
 ___
@@ -36,9 +37,11 @@ ___
 | `Typecast.api` | `True` | `false` |
 | `Disaster-Message` | `True` | `True` |
 | `Get-Server-Time` | `True` | `True` |
+| `SWAG/Covid-Check` | `True` | `True` |
 | `Shelter-Board-Viewer` | `Pending` | `True` |
 | `kkutu-korea-dict` | `Pending` | `True` |
 | `EqualPlus` | `Pending` | `True` |
+| `SWAG/Covid-Check` | `True` | `True` |
 <br>
 
 ___
